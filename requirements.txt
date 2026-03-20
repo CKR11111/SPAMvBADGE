@@ -1,2 +1,9 @@
 flask
 pexpect
+requests
+psutil
+pyjwt
+pycryptodome
+protobuf==5.27.2
+cfonts
+rich
