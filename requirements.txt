@@ -7,3 +7,4 @@ pycryptodome
 protobuf==5.27.2
 cfonts
 rich
+protobuf-decoder
